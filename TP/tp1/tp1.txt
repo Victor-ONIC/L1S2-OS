@@ -1,0 +1,33 @@
+EXERCICE 1:
+1. > ls ./
+2. > ls etc
+3. > find etc/ -type f -name "f*" 
+4. > find etc/ -type f -name "*.conf"
+5. > ls -t etc/
+6. > ls -l etc/passwd
+
+7. > mkdir systeme_exploitation/
+8. > cd systeme_exploitation/
+9. > mkdir tp1/ cours/ persannel/
+10. > rmdir tp1/
+11. > mkdir -p tp1/archive/
+12. > touch cours/fichier.txt
+13. > cp cours/fichier.txt tp1/archive/
+14. > mv persannel/ personnel/
+15. La commande "> rmdir tp1/archive/" ne fonctionne pas car le répertoire n'est pas vide.
+> rm -rf tp1/archive/
+
+EXERCICE 2:
+1. > cat etc/passwd
+2. > head -n 3 etc/passwd
+3. > tail -n 7 etc/passwd
+4. > cut -f 1 -d ':' etc/passwd
+5. > cut -f 3 -d ':' etc/passwd
+6. > cut -f 1,3 -d ':' etc/passwd
+7. > cut -c-5 etc/passwd
+
+EXERCICE 3:
+1. > chmod 700 toto.txt
+2. > chmod a+x toto.txt
+3. > chmod a+rwx toto.txt
+4. > chmod -r [ugoa] [+-=] [rwx] filename

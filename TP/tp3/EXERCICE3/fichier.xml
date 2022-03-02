@@ -1,0 +1,63 @@
+<etudiants>
+
+	<etudiant>
+		<surname>Alan</surname>
+		<name>KAYLEE</name>
+		<birthday>1993</birthday>
+		<courses>
+			<course>italien</course>
+			<course>programmation</course>
+		</courses>
+	</etudiant>
+
+	<etudiant>
+		<surname>Rose</surname>
+		<name>CALIXTE</name>
+		<birthday>1993</birthday>
+		<courses>
+			<course>anglais</course>
+			<course>programmation</course>
+		</courses>
+	</etudiant>
+
+	<etudiant>
+		<surname>Floria</surname>
+		<name>BERTRAND</name>
+		<birthday>1995</birthday>
+		<courses>
+			<course>anglais</course>
+			<course>assembleur</course>
+		</courses>
+	</etudiant>
+
+	<etudiant>
+		<surname>Gaetan</surname>
+		<name>NIENOW</name>
+		<birthday>1993</birthday>
+		<courses>
+			<course>anglais</course>
+			<course>internet</course>
+		</courses>
+	</etudiant>
+
+	<etudiant>
+		<surname>Claire</surname>
+		<name>DUPOND</name>
+		<birthday>1992</birthday>
+		<courses>
+			<course>anglais</course>
+			<course>programmation</course>
+		</courses>
+	</etudiant>
+
+	<etudiant>
+		<surname>Maxime</surname>
+		<name>DING</name>
+		<birthday>1991</birthday>
+		<courses>
+			<course>espagnol</course>
+			<course>internet</course>
+		</courses>
+	</etudiant>
+
+</etudiants>

@@ -1,0 +1,6 @@
+Alan:KAYLEE:1993:italien;programmation
+Rose:CALIXTE:1993:anglais;programmation
+Floria:BERTRAND:1995:anglais;assembleur
+Gaetan:NIENOW:1993:anglais;internet
+Claire:DUPOND:1992:anglais;programmation
+Maxime:DING:1991:espagnol;internet
