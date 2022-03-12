@@ -1,0 +1,15 @@
+Partie A:
+Lorsque je tape > kill -9 PID dans le second terminal, le processus est
+arrêté. Dans le premier terminal, le programme s'est interrompu est affiche
+"Processus arrêté".
+
+Partie B:
+Lorsqu'on sélectionne le processus looptime dans htop et qu'on appuie sur k,
+on a une liste de signaux à envoyer au programme.
+En envoyant SIGKILL (9), on demande au programme d'arrêter son exécution.
+Le résultat: le programme s'arrête et affiche encore "Processus arrêté".
+
+Partie C:
+La même chose se produit: le programme a été arrêté. Cette fois, on ne reçoit
+plus le message "Processus arrêté", mais juste "^C", indiquant qu'on a appuyé
+sur ctrl+c.
